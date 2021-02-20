@@ -1,5 +1,2 @@
 # exmaple
-
-YES!
-
-NOW!
+New Branch 2
